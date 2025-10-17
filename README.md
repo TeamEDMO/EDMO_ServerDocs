@@ -6,7 +6,7 @@ This repository hosts the documentation for the EDMO Server Software, providing 
 
 * API Documentation — A comprehensive descriptions of the classes and the functions used within the Server software.
 
---
+---
 
 You can view the full documentation here:
 
